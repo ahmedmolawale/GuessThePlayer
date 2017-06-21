@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/Development/AndroidStudioProjects/GuessThePlayer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="363e1efe97626b7b6e773910bab517df39a4d9f8">
+        <dex dex="/root/Development/AndroidStudioProjects/GuessThePlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d1dde6092e7ce337d5a714f0e2db6925773e5452/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Development/AndroidStudioProjects/GuessThePlayer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/root/Development/AndroidStudioProjects/GuessThePlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e60a99983b8cf7c024f8cbae99c920d6e62bceb3/classes.dex" />
+    </item>
+
+</items>
